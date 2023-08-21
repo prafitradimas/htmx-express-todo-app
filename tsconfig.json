@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "outDir": "./build",
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true,
+        "noImplicitAny": true,
+        "typeRoots": [
+            "./node_modules/@types",
+            "./src/types.d.ts"
+        ]
+    }
+}
